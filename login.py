@@ -1,3 +1,4 @@
+# JOIN MY DISCORD! discord.gg/dVSVGgqv2Q
 from tkinter import *
 import mysql.connector
 
@@ -145,3 +146,5 @@ def option_screen():
 
 #Opens the option screen
 option_screen()
+
+
